@@ -3,7 +3,6 @@ import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-menu-item',
-  standalone: true,
   imports: [RouterLink],
   templateUrl: './menu-item.html',
   styleUrl: './menu-item.css',
